@@ -3,7 +3,7 @@
 vim-gitstatus.vim is a plugin for listing all the file paths that have
 differences between git's index file and the current HEAD commit.
 
-The modified file paths show up in vim's quickfix.
+The modified and new file paths show up in vim's quickfix.
 
 ### Demo
 
