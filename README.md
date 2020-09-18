@@ -5,6 +5,13 @@ differences between git's index file and the current HEAD commit.
 
 The modified file paths show up in vim's quickfix.
 
+### Demo
+
+![GitStatus demo](demo.gif)
+
+### Requirements
+Must have git previously installed.
+
 ### Installation
 
 Install using your favorite package manager, or use Vim's building
@@ -17,7 +24,7 @@ package support:
 
 ### Key maps
 
-vim-gitstatus.vim doesn't map anything itself. If you'll like to have a
+vim-gitstatus.vim doesn't map anything itself. If you'd like to have a
 key mapping add this to your `/.vimrc` file:
 
-    nnoremap <leader>gs :Gitstatus
+    nnoremap <leader>gs :GitStatus
