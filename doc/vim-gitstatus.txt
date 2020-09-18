@@ -1,0 +1,11 @@
+*vim-gitstatus.txt* Plugin for listing the modified files since last commit by
+using git status.
+
+Author: Braulio Chavez <mailto:braulio@chamvr.com>
+License: Same terms as vim itself (see |license|)
+
+INTRODUCTION                                    *vim-gitstatus*
+
+This plugin is a tool for listing all the file paths that have differences
+between git's index file and the current HEAD commit.
+
