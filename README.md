@@ -27,4 +27,4 @@ package support:
 vim-gitstatus.vim doesn't map anything itself. If you'd like to have a
 key mapping add this to your `/.vimrc` file:
 
-    nnoremap <leader>gs :GitStatus
+    nnoremap <leader>gs :GitStatus<CR>
