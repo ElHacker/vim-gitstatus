@@ -19,7 +19,7 @@ package support:
 
     mkdir -p ~/.vim/pack/elhacker/start
     cd ~/.vim/pack/elhacker/start
-    git clone https://elhacker/vim-gitstatus.git
+    git clone https://github.com/ElHacker/vim-gitstatus.git
     vim -u NONE -c "helptags vim-gitstatus/doc" -c q
 
 ### Key maps
